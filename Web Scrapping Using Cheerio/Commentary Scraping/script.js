@@ -15,5 +15,8 @@ function callback(err, res, html) {
 
 
     }
+    else{
+        console.log("Something Went Wrong");
+    }
    
 }
